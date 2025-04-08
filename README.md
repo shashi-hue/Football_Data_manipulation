@@ -40,4 +40,4 @@ This project computes rolling statistics for football teams over the last 5, 15,
 ## 🧪 Run It Yourself
 
 ```bash
-python script/rolling_stats_generator.py
+python script/Task1.ipynb
